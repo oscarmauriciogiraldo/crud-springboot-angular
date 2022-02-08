@@ -1,9 +1,6 @@
 # Estructura Spring boot
 
 ## Proyecto Srping Boot
-
-    ![image](https://user-images.githubusercontent.com/29387867/152907729-2e4eb2eb-637e-4739-abe4-dd3144151b24.png)
-
     
     El archivo de configuracion de un proyecto maven es el archivo pomp.xml
 
